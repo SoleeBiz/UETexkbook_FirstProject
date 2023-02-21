@@ -3192,3 +3192,76 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.21-12.20.11:602][476]LogContentValidation: Display: Validating Material /Game/Materials/Mat_Wall_Ivory.Mat_Wall_Ivory
 [2023.02.21-12.20.11:602][476]LogContentValidation: Display: Validating Material /Game/Materials/Mat_Floor_Wood.Mat_Floor_Wood
 [2023.02.21-12.20.11:602][476]LogContentValidation: Display: Validating Material /Game/Materials/Mat_Wall_Orange.Mat_Wall_Orange
+[2023.02.21-12.20.48:728][768]Cmd: EDIT COPY
+[2023.02.21-12.20.49:353][843]Cmd: EDIT PASTE
+[2023.02.21-12.20.49:849][900]Cmd: EDIT PASTE
+[2023.02.21-12.20.50:694][999]Cmd: EDIT PASTE
+[2023.02.21-12.21.36:804][501]Cmd: EDIT COPY
+[2023.02.21-12.21.37:619][598]Cmd: EDIT PASTE
+[2023.02.21-12.21.38:149][659]Cmd: EDIT PASTE
+[2023.02.21-12.21.38:544][704]Cmd: EDIT PASTE
+[2023.02.21-12.25.40:459][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door03)
+[2023.02.21-12.25.49:468][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door03)
+[2023.02.21-12.27.34:658][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door01)
+[2023.02.21-12.27.45:919][573]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2023.02.21-12.27.46:175][574]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2023.02.21-12.27.53:881][491]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-12.27.53:881][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-12.27.56:237][770]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-12.27.56:237][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-12.27.58:767][910]LogSlate: Window 'Message' being destroyed
+[2023.02.21-12.27.58:771][910]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/Mat_Wall_Gray.Mat_Wall_Gray
+(Selecting 'No' will cause all changes to be lost!)
+[2023.02.21-12.27.59:024][910]LogMaterial: Display: Missing cached shadermap for Mat_Wall_Gray in PCD3D_SM5, Default, SM5 (DDC key hash: 43F8188A943F10E790A67BE0045006DD43D5D7A9), compiling. 
+[2023.02.21-12.27.59:042][910]LogMaterial: Display: Missing cached shadermap for Mat_Wall_Gray in PCD3D_SM5, Default, SM5 (DDC key hash: BDE29ED3B8B614DB19995FD4CE1912E3733D4EAB), compiling. 
+[2023.02.21-12.27.59:079][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.21-12.27.59:191][910]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.21-12.27.59:191][910]LogShaderCompilers: Display: Total job queries 1617, among them cache hits 1131 (69.94%)
+[2023.02.21-12.27.59:191][910]LogShaderCompilers: Display: Tracking 434 distinct input hashes that result in 189 distinct outputs (43.55%)
+[2023.02.21-12.27.59:191][910]LogShaderCompilers: Display: RAM used: 1.10 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2023.02.21-12.27.59:191][910]LogShaderCompilers: Display: ================================================
+[2023.02.21-12.27.59:196][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.02.21-12.27.59:209][910]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-12.27.59:209][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-12.28.18:119][158]LogActorFactory: Actor Factory created SM_GlassWindow
+[2023.02.21-12.28.20:358][426]LogActorFactory: Actor Factory created SM_GlassWindow
+[2023.02.21-12.29.13:265][754]LogActorFactory: Actor Factory created SM_GlassWindow
+[2023.02.21-12.29.13:921][832]LogActorFactory: Actor Factory created SM_GlassWindow
+[2023.02.21-12.29.55:445][800]Cmd: TRANSACTION UNDO
+[2023.02.21-12.29.55:445][800]LogEditorTransaction: Undo Scale Actors
+[2023.02.21-12.30.01:592][509]Cmd: TRANSACTION UNDO
+[2023.02.21-12.30.01:592][509]LogEditorTransaction: Undo Scale Actors
+[2023.02.21-12.31.05:350][101]Cmd: EDIT COPY
+[2023.02.21-12.31.05:875][164]Cmd: EDIT PASTE
+[2023.02.21-12.31.10:722][743]Cmd: EDIT PASTE
+[2023.02.21-12.31.17:412][543]Cmd: EDIT PASTE
+[2023.02.21-12.32.49:349][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow03)
+[2023.02.21-12.34.30:377][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow04)
+[2023.02.21-12.35.06:250][927]Cmd: TRANSACTION UNDO
+[2023.02.21-12.35.06:250][927]LogEditorTransaction: Undo Move Actors
+[2023.02.21-12.35.29:002][609]Cmd: TRANSACTION UNDO
+[2023.02.21-12.35.29:002][609]LogEditorTransaction: Undo Scale Actors
+[2023.02.21-12.35.30:055][709]Cmd: TRANSACTION UNDO
+[2023.02.21-12.35.30:055][709]LogEditorTransaction: Undo Move Actors
+[2023.02.21-12.36.08:444][289]Cmd: TRANSACTION UNDO
+[2023.02.21-12.36.08:444][289]LogEditorTransaction: Undo Move Actors
+[2023.02.21-12.36.31:226][993]Cmd: TRANSACTION UNDO
+[2023.02.21-12.36.31:226][993]LogEditorTransaction: Undo Scale Actors
+[2023.02.21-12.36.32:357][ 94]Cmd: TRANSACTION UNDO
+[2023.02.21-12.36.32:357][ 94]LogEditorTransaction: Undo Move Actors
+[2023.02.21-12.36.33:220][196]Cmd: TRANSACTION UNDO
+[2023.02.21-12.36.33:220][196]LogEditorTransaction: Undo Move Actors
+[2023.02.21-12.37.47:877][142]Cmd: TRANSACTION UNDO
+[2023.02.21-12.37.47:877][142]LogEditorTransaction: Undo Move Actors
+[2023.02.21-12.38.45:449][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.21-12.38.46:790][ 17]LogSlate: Window 'Save Content' being destroyed
+[2023.02.21-12.38.46:809][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="../../../../../../StudyBP/FirstP/Content/Levels/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.21-12.38.46:812][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.02.21-12.38.46:843][ 17]LogSavePackage: Moving '../../../../../../StudyBP/FirstP/Saved/FirstLevelCCF1B8704EA6FB5CF08D2A8D5305B7D5.tmp' to '../../../../../../StudyBP/FirstP/Content/Levels/FirstLevel.umap'
+[2023.02.21-12.38.46:848][ 17]LogFileHelpers: Saving map 'FirstLevel' took 0.039
+[2023.02.21-12.38.46:854][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Mat_Wall_Gray" FILE="../../../../../../StudyBP/FirstP/Content/Materials/Mat_Wall_Gray.uasset" SILENT=true
+[2023.02.21-12.38.46:859][ 17]LogSavePackage: Moving '../../../../../../StudyBP/FirstP/Saved/Mat_Wall_Gray913E96DC4A76B993D5C6D88C7E9BEAFC.tmp' to '../../../../../../StudyBP/FirstP/Content/Materials/Mat_Wall_Gray.uasset'
+[2023.02.21-12.38.46:866][ 17]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.21-12.38.46:866][ 17]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
+[2023.02.21-12.38.46:866][ 17]LogContentValidation: Display: Validating Material /Game/Materials/Mat_Wall_Gray.Mat_Wall_Gray
