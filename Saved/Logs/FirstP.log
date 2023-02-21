@@ -1203,3 +1203,43 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.21-03.35.02:122][584]LogFileHelpers: Saving map 'FirstLevel' took 0.036
 [2023.02.21-03.35.02:133][584]AssetCheck: New page: Asset Save: FirstLevel
 [2023.02.21-03.35.02:133][584]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
+[2023.02.21-03.35.38:927][766]LogAudioMixer: Resetting audio stream to device id 
+[2023.02.21-03.35.38:940][766]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-03.35.38:940][766]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-09.44.17:631][822]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.02.21-09.44.18:824][822]LogAudioMixer: Resetting audio stream to device id 
+[2023.02.21-09.44.18:891][822]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-09.44.18:891][822]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-09.44.19:024][823]LogHttp: Warning: 000001A78C196B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF4F2B3AE-46AA-E144-7FAB-38BB4CE18DAF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=8ee888f74095e5f97a3db39f35771826%7C113f3791fffa45c5bd29ad18c16b9087%7C4faa2388-f508-4403-ac16-0a05e69ec3f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.21-09.44.19:024][823]LogHttp: Warning: 000001A78C196B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.02.21-09.44.19:024][823]LogHttp: Warning: 000001A78C196B00: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2023.02.21-09.44.19:024][823]LogHttp: Warning: 000001A78C196B00: libcurl info message cache 1 (Closing connection 0)
+[2023.02.21-09.44.19:025][823]LogHttp: Warning: 000001A78C196B00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.02.21-09.44.19:025][823]LogHttp: Warning: 000001A78C196B00: libcurl info message cache 3 (Closing connection 1)
+[2023.02.21-09.44.19:239][823]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.02.21-09.44.19:239][823]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.02.21-09.44.19:239][823]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.02.21-09.44.19:266][823]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.02.21-09.44.19:282][824]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF4F2B3AE-46AA-E144-7FAB-38BB4CE18DAF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=8ee888f74095e5f97a3db39f35771826%7C113f3791fffa45c5bd29ad18c16b9087%7C4faa2388-f508-4403-ac16-0a05e69ec3f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.21-09.44.20:854][931]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.02.21-09.44.20:854][931]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.02.21-09.44.20:854][931]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.02.21-09.44.20:862][931]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.02.21-09.44.22:866][117]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.02.21-09.44.22:867][117]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.02.21-09.44.22:867][117]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.02.21-09.44.22:875][117]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.02.21-11.09.42:768][279]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.02.21-11.10.59:057][406]Cmd: EDIT COPY
+[2023.02.21-11.10.59:723][486]Cmd: EDIT PASTE
+[2023.02.21-11.11.01:453][690]Cmd: EDIT PASTE
+[2023.02.21-11.11.01:964][748]Cmd: EDIT PASTE
+[2023.02.21-11.12.15:570][550]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.02.21-11.13.58:407][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.21-11.13.59:891][852]LogSlate: Window 'Save Content' being destroyed
+[2023.02.21-11.13.59:911][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="../../../../../../StudyBP/FirstP/Content/Levels/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.21-11.13.59:915][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.02.21-11.13.59:945][852]LogSavePackage: Moving '../../../../../../StudyBP/FirstP/Saved/FirstLevel38F3B40548DCF1BE4CD8F3A524ACAA73.tmp' to '../../../../../../StudyBP/FirstP/Content/Levels/FirstLevel.umap'
+[2023.02.21-11.13.59:955][852]LogFileHelpers: Saving map 'FirstLevel' took 0.044
+[2023.02.21-11.13.59:964][852]AssetCheck: New page: Asset Save: FirstLevel
+[2023.02.21-11.13.59:964][852]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
